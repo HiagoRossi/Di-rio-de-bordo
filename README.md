@@ -1,5 +1,4 @@
 # Diário-de-bordo
-# Análise de Corridas - info_transportes.csv
 
 Este projeto tem como objetivo processar os dados do arquivo info_transportes.csv, que contém registros de corridas realizadas por um aplicativo de transporte privado. A análise agrupa as corridas por data de início e gera uma nova tabela chamada info_corridas_do_dia, contendo estatísticas relevantes para o time de negócio entender o comportamento dos usuários.
 
